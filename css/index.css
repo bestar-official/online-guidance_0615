@@ -1,0 +1,42 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.salon01 {
+    width: 100%;
+}
+
+.salon02 {
+    width: 100%;
+}
+
+.salon03 {
+    width: 100%;
+}
+
+
+
+.back_button {
+    width: 100%;
+}
